@@ -15,6 +15,16 @@
 ### About me
 - 🌱 I’m currently learning: ##react, ts ##    
 - 📫 Reach me by [email](mailto:sergdevek@gmail.com)
+  
+---
+<div align="justify">
+<p>I am a beginner front-end developer. I study technology on my own. I'm learning stack with React. I try to consolidate all knowledge by practice, writing my own projects. In my work I use VScode, basic Linux commands and fix the result on GitHub.</p>
+<ul>For now:
+    <li>made a timer in JavaScript and designed as a desktop application with a minimum of functions I need</li>
+    <li>developing a React application with a MongoDB database and an Express server</li>
+</ul>
+<p>I am looking for a job or an internship in Yekaterinburg (or other cities remotely).</p>
+</div>
 
 ---
 
