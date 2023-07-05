@@ -13,7 +13,7 @@
 </div>
 
 ### About me
-- 🌱 I’m currently learning: ##react, ts ##    
+- 🌱 I’m currently learning: **React, TS**    
 - 📫 Reach me by [email](mailto:sergdevek@gmail.com)
   
 ---
